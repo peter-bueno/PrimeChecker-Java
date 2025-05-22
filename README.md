@@ -22,7 +22,7 @@ This project is a **Java** algorithm that prompts the user for an integer and ch
    ```
 2. Navigate to the project directory:
    ```sh
-   cd repository-name
+   cd PrimeChecker-Java
    ```
 3. Compile and run the program:
    ```sh
